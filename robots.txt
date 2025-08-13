@@ -1,2 +1,3 @@
 User-agent: Yandex
-Sitemap: https://mediator-obuchenie.vercel.app/sitemap.xml
+
+Sitemap: https://magistratura-klinicheskaya-psiholog.vercel.app/sitemap.xml
